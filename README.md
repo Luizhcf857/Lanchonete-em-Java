@@ -32,3 +32,10 @@ Um simples sistema de **cardápio em Java** que permite ao cliente escolher comi
 - Geovana: 🟣  
 - Luiz Henrique: 🔵  
 - Alaides Lemos: 🟢
+
+- ## 🧰 Ferramentas Utilizadas
+
+- **Eclipse IDE** → para o desenvolvimento do código em Java.  
+- **draw.io** → para criação do fluxograma.  
+- **Markdown** → para documentação do projeto (README).  
+- **GitHub** → para versionamento e hospedagem do projeto.  
