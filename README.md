@@ -30,5 +30,5 @@ Um simples sistema de **cardápio em Java** que permite ao cliente escolher comi
 ## 👨‍💻 Desenvolvedores
 
 - Geovana: 🟣  
-- Luiz Henrique: 🔵
-
+- Luiz Henrique: 🔵  
+- Alaides Lemos: 🟢
